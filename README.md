@@ -90,3 +90,4 @@ This line in the above image(ml_consumer.js output) indicates the prediction of 
 1. I have created the server-side architecture of the model, for which the client-side also needed to be developed.
 2. I was researching on react.js for construction of the client-side, but I failed at some aspects due to which I left the client-side for future development.
 3. The code I have written could be further optimised for better architectural design and model performance.# StockMarketAnalysis
+# StockMarketAnalysis
